@@ -1,0 +1,1 @@
+ 目前对appliction/new 页面的配置信息还不正确
